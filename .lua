@@ -4,7 +4,7 @@
 -- made by PersonMon
 -- not mine all credits go to infyield sharescript diskord
 
-local teamCheck = true
+local teamCheck = false
 local fov = 100
 local smoothing = 1
 
